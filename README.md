@@ -1,10 +1,10 @@
 Hyperon integration/staging tree
 ================================
 
-http://www.hyperon.org
+http://www.finlaycampbell.me/hyperon
 
-Copyright (c) 2009-2013 Bitcoin Developers
-Copyright (c) 2011-2013 Litecoin Developers
+Copyright (c) 2009-2017 Bitcoin Developers
+Copyright (c) 2011-2017 Litecoin Developers
 
 What is Hyperon?
 ----------------
@@ -19,8 +19,7 @@ The rest is the same as Bitcoin.
  - 2016 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
-the Hyperon client sofware, see http://www.hyperon.org.
-
+the Hyperon client sofware, see http://www.finlaycampbell.me/hyperon
 License
 -------
 
