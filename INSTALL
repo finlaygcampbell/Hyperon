@@ -1,0 +1,9 @@
+Building Hyperon
+
+See doc/readme-qt.rst for instructions on building Hyperon-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Hyperon.
+
+See doc/build-*.txt for instructions on building hyperond,
+the intended-for-services, no-graphical-interface, reference
+implementation of Hyperon.
