@@ -5,6 +5,7 @@ http://www.finlaycampbell.me/hyperon
 
 Copyright (c) 2009-2017 Bitcoin Developers
 Copyright (c) 2011-2017 Litecoin Developers
+Copyright (c) 2018 Finlay Campbell
 
 What is Hyperon?
 ----------------
